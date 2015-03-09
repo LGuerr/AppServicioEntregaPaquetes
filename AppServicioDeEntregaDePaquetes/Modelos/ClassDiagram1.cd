@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AppServicioDeEntregaDePaquetes.Datos.BillsRepositories" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datos\BillsRepositories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppServicioDeEntregaDePaquetes.Web.Bills" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Web\Bills.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppServicioDeEntregaDePaquetes.Web.customers" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Web\customers.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppServicioDeEntregaDePaquetes.Web.Default" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Web\Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppServicioDeEntregaDePaquetes.Package">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAEAAIAAAIICEAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelos\Package.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppServicioDeEntregaDePaquetes.TwoDayPackage">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelos\TwoDayPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppServicioDeEntregaDePaquetes.OvernightPackage">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelos\OvernightPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

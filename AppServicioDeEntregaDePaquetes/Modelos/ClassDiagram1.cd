@@ -14,10 +14,10 @@
       <FileName>Web\Bills.aspx.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="AppServicioDeEntregaDePaquetes.Web.customers" Collapsed="true">
+  <Class Name="AppServicioDeEntregaDePaquetes.Web.customers">
     <Position X="0.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <HashCode>AAAAAAAAACQAIACgACAAgAAAIAAAAAAAAAAAAgAAAAI=</HashCode>
       <FileName>Web\customers.aspx.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -29,21 +29,21 @@
     </TypeIdentifier>
   </Class>
   <Class Name="AppServicioDeEntregaDePaquetes.Package">
-    <Position X="8.25" Y="0.5" Width="1.5" />
+    <Position X="7.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAADAEAAIAAAIICEAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAADAEAAIQRAIKCEACAAiAgAAAAIAIIAAAAAAAAAAAA=</HashCode>
       <FileName>Modelos\Package.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AppServicioDeEntregaDePaquetes.TwoDayPackage">
-    <Position X="6.25" Y="3.75" Width="1.5" />
+    <Position X="5.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Modelos\TwoDayPackage.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AppServicioDeEntregaDePaquetes.OvernightPackage">
-    <Position X="6.25" Y="2.5" Width="1.5" />
+    <Position X="3.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Modelos\OvernightPackage.cs</FileName>
